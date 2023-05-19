@@ -1,0 +1,13 @@
+#!/bin/bash -x
+
+javac -cp cs1302-str-list.jar -d bin src/cs1302/p2/BaseStringList.java
+
+javac -cp cs1302-str-list.jar:bin -d bin src/cs1302/p2/ArrayStringList.java
+
+javac -cp cs1302-str-list.jar:bin -d bin src/cs1302/p2/LinkedStringList.java
+
+javac -cp cs1302-str-list.jar:bin -d bin src/cs1302/p2/Driver.java
+
+java -cp cs1302-str-list.jar:bin cs1302.p2.Driver
+
+check1302 src/

@@ -1,0 +1,95 @@
+cs1302-str-list:
+total 84
+drwxr-xr-x. 3 myid    28 Feb 24 02:47 bin
+-rwxr--r--. 1 myid   377 Feb 28 00:53 cs1302-p2-script
+-rw-r--r--. 1 myid  4526 Feb 26 22:49 cs1302-str-list.jar
+drwxr-xr-x. 6 myid  4096 Feb 28 01:17 doc
+-rw-r--r--. 1 myid 24506 Feb 24 01:40 ProjectDiagram.svg
+-rw-r--r--. 1 myid 43825 Feb 26 22:49 README.md
+-rw-r--r--. 1 myid     0 Mar  1 12:25 rec14799
+drwxr-xr-x. 3 myid    28 Feb 24 01:48 src
+
+cs1302-str-list/bin:
+total 0
+drwxr-xr-x. 3 myid 24 Feb 24 02:47 cs1302
+
+cs1302-str-list/bin/cs1302:
+total 0
+drwxr-xr-x. 2 myid 133 Feb 24 02:51 p2
+
+cs1302-str-list/bin/cs1302/p2:
+total 20
+-rw-r--r--. 1 myid 2059 Feb 28 01:28 ArrayStringList.class
+-rw-r--r--. 1 myid 1902 Feb 28 01:28 BaseStringList.class
+-rw-r--r--. 1 myid 6568 Feb 28 01:29 Driver.class
+-rw-r--r--. 1 myid 2261 Feb 28 01:29 LinkedStringList.class
+
+cs1302-str-list/doc:
+total 112
+-rw-r--r--. 1 myid  3951 Feb 28 01:18 allclasses-index.html
+-rw-r--r--. 1 myid  2621 Feb 28 01:18 allpackages-index.html
+drwxr-xr-x. 3 myid    24 Feb 28 01:16 cs1302
+-rw-r--r--. 1 myid    10 Feb 28 01:18 element-list
+-rw-r--r--. 1 myid  8208 Feb 28 01:18 help-doc.html
+-rw-r--r--. 1 myid 14505 Feb 28 01:18 index-all.html
+-rw-r--r--. 1 myid  1021 Feb 28 01:18 index.html
+-rw-r--r--. 1 myid   501 Feb 28 01:18 jquery-ui.overrides.css
+drwxr-xr-x. 2 myid    94 Feb 28 01:17 legal
+-rw-r--r--. 1 myid  2439 Feb 28 01:18 member-search-index.js
+-rw-r--r--. 1 myid    45 Feb 28 01:18 module-search-index.js
+-rw-r--r--. 1 myid  3235 Feb 28 01:18 overview-tree.html
+-rw-r--r--. 1 myid   113 Feb 28 01:18 package-search-index.js
+drwxr-xr-x. 2 myid    36 Feb 28 01:17 resources
+drwxr-xr-x. 2 myid    82 Feb 28 01:17 script-dir
+-rw-r--r--. 1 myid  4030 Feb 28 01:18 script.js
+-rw-r--r--. 1 myid 12762 Feb 28 01:18 search.js
+-rw-r--r--. 1 myid 18717 Feb 28 01:18 stylesheet.css
+-rw-r--r--. 1 myid    42 Feb 28 01:18 tag-search-index.js
+-rw-r--r--. 1 myid   256 Feb 28 01:18 type-search-index.js
+
+cs1302-str-list/doc/cs1302:
+total 0
+drwxr-xr-x. 2 myid 190 Feb 28 01:16 p2
+
+cs1302-str-list/doc/cs1302/p2:
+total 84
+-rw-r--r--. 1 myid 16154 Feb 28 01:18 ArrayStringList.html
+-rw-r--r--. 1 myid 18674 Feb 28 01:18 BaseStringList.html
+-rw-r--r--. 1 myid 20360 Feb 28 01:18 Driver.html
+-rw-r--r--. 1 myid 16002 Feb 28 01:18 LinkedStringList.html
+-rw-r--r--. 1 myid  4222 Feb 28 01:18 package-summary.html
+-rw-r--r--. 1 myid  3169 Feb 28 01:18 package-tree.html
+
+cs1302-str-list/doc/legal:
+total 20
+-rw-r--r--. 1 myid 3244 Feb 28 01:18 COPYRIGHT
+-rw-r--r--. 1 myid 2936 Feb 28 01:18 jquery.md
+-rw-r--r--. 1 myid 1870 Feb 28 01:18 jqueryUI.md
+-rw-r--r--. 1 myid 6186 Feb 28 01:18 LICENSE
+
+cs1302-str-list/doc/resources:
+total 8
+-rw-r--r--. 1 myid 499 Feb 28 01:18 glass.png
+-rw-r--r--. 1 myid 394 Feb 28 01:18 x.png
+
+cs1302-str-list/doc/script-dir:
+total 124
+-rw-r--r--. 1 myid 89501 Feb 28 01:18 jquery-3.6.0.min.js
+-rw-r--r--. 1 myid  1842 Feb 28 01:18 jquery-ui.min.css
+-rw-r--r--. 1 myid 32680 Feb 28 01:18 jquery-ui.min.js
+
+cs1302-str-list/src:
+total 0
+drwxr-xr-x. 3 myid 24 Feb 24 02:24 cs1302
+
+cs1302-str-list/src/cs1302:
+total 0
+drwxr-xr-x. 2 myid 129 Feb 28 01:23 p2
+
+cs1302-str-list/src/cs1302/p2:
+total 32
+-rw-r--r--. 1 myid 4748 Feb 28 01:12 ArrayStringList.java
+-rw-r--r--. 1 myid 2541 Feb 28 01:14 BaseStringList.java
+-rw-r--r--. 1 myid 9811 Feb 28 01:23 Driver.java
+-rw-r--r--. 1 myid 4471 Feb 28 01:12 LinkedStringList.java
+/home/myid/myy04663/cs1302-projects/cs1302-str-list:/home/myid/csci-1302
